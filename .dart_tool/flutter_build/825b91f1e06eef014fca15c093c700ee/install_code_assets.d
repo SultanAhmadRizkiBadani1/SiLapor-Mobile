@@ -1,0 +1,1 @@
+ C:\\silapor\\silapor_app\\.dart_tool\\flutter_build\\825b91f1e06eef014fca15c093c700ee\\native_assets.json: 
